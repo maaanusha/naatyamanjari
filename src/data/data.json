@@ -1,0 +1,131 @@
+{
+  "Header": {
+    "title": "Live to dance!",
+    "paragraph": "Highly enthusiatic individuals aiming to bring out the best talent in you!"
+  },
+  "About": {
+    "paragraph": "Started off in the year 2020 with a motive of spreading the knowledge that we gained through various guru's. In all the chaos of our daily routine, little bit of fun and dance in the weekend is the only thing that charges us up for a fresh week. The best way of learning dance is thought in the organisation. With your help we will reach greater heights!.",
+    "Why": [
+      "Stage Performaances",
+      "Friendly Environment",
+      "Exam Syllabus covered",
+      "Social media exposure"
+    ],
+    "Why2": [
+      "Taalam Recitation",
+      "Music(dance basics)",
+      "Ample Excercise",
+      "Required notes and videos"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    }
+  ],
+ 
+  "Contact": {
+    "address": "4321 California St, San Francisco, CA 12345 ",
+    "phone": "+1 123 456 1234",
+    "email": "info@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Up-To-Date",
+      "text": "All the information regarding the classes will be contacted to the student and parents."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Performance Ready",
+      "text": " Choreographed items can be performed anywhere apart for the organization itself."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Social Media",
+      "text": "Haven't you still checked out our ocial webpages? Scroll-down to have a look at our EXCELLENT students."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Entertainment",
+      "text": "Fun and entertainment should be a part of any extra-curricular activity for students, students will enjoy dancing with us!."
+    }
+  ]
+}
