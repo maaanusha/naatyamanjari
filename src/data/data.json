@@ -24,28 +24,15 @@
       "largeImage": "img/portfolio/01-large.png",
       "smallImage": "img/portfolio/01-small.png"
     },
-    {
-      "title": "Click Here",
-      "largeImage": "img/portfolio/02-large.png",
-      "smallImage": "img/portfolio/02-small.png"
-    },
+   
     {
       "title": "Click Here",
       "largeImage": "img/portfolio/03-large.png",
       "smallImage": "img/portfolio/03-small.png"
     },
     
-   
-    {
-      "title": "Click Here",
-      "largeImage": "img/portfolio/06-large.png",
-      "smallImage": "img/portfolio/06-small.png"
-    },
-    {
-      "title": "Click Here",
-      "largeImage": "img/portfolio/08-large.jpg",
-      "smallImage": "img/portfolio/08-small.jpg"
-    },
+ 
+    
     {
       "title": "Click Here",
       "largeImage": "img/portfolio/09-large.jpg",
@@ -54,7 +41,7 @@
   ],
  
   "Contact": {
-    "address": "Indian Heritage Koramangla ",
+    "address": "KR Puram, Koramangala",
     "phone": "+91 7411982546",
     "email": "natyamanjaridancecompany@gmail.com",
     "facebook": "fb.com",
